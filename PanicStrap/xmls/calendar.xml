@@ -1,0 +1,627 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gCal='http://schemas.google.com/gCal/2005' xmlns:gd='http://schemas.google.com/g/2005'>
+    <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic</id>
+    <updated>2014-11-14T18:26:00.000Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+    <title type='text'>Team</title>
+    <subtitle type='text'>Team events including recurring meetings, birthdays, TR anniversaries and vacation.</subtitle>
+    <link rel='alternate' type='text/html' href='https://www.google.com/calendar/embed?src=taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com' />
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic' />
+    <link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/batch' />
+    <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic?max-results=25' />
+    <link rel='next' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic?start-index=26&amp;max-results=25' />
+    <author>
+        <name>Scott Bartlett</name>
+        <email>scott@taskrabbit.com</email>
+    </author>
+    <generator version='1.0' uri='http://www.google.com/calendar'>Google Calendar</generator>
+    <openSearch:totalResults>1102</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+    <gCal:timezone value='America/Los_Angeles' />
+    <gCal:timesCleaned value='0' />
+    <gd:where valueString='' />
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/ejnqqdvbp8ol1qdhgvo57vncic</id>
+        <published>2014-02-18T22:24:26.000Z</published>
+        <updated>2014-11-14T18:26:00.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Leah Busque&amp;#39;s birthday</title>
+        <summary type='html'>Recurring Event
+            <br />First start: 2014-11-15 PST
+            <br />Duration: 86400
+
+
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>Recurring Event
+            <br />First start: 2014-11-15 PST
+            <br />Duration: 86400
+
+
+
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=ZWpucXFkdmJwOG9sMXFkaGd2bzU3dm5jaWNfMjAxNDExMTUgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/ejnqqdvbp8ol1qdhgvo57vncic' />
+        <author>
+            <name>Emily Bergen</name>
+            <email>emily@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/5gh3ucqummo10bctj0p38d5ejs</id>
+        <published>2014-11-04T23:21:29.000Z</published>
+        <updated>2014-11-14T06:35:33.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Jenna 1/2 day</title>
+        <summary type='html'>When: Fri Nov 14, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Fri Nov 14, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=NWdoM3VjcXVtbW8xMGJjdGowcDM4ZDVlanMgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/5gh3ucqummo10bctj0p38d5ejs' />
+        <author>
+            <name>Jenna Williams</name>
+            <email>jenna@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/as8uquda9k0qh42c8be3oh4trg_20141114T013000Z</id>
+        <published>2014-11-06T21:03:53.000Z</published>
+        <updated>2014-11-14T01:42:24.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Nerdy Board Game night (recurring)</title>
+        <summary type='html'>When: Thu Nov 13, 2014 5:30pm to 6:30pm&amp;nbsp; PST
+            <br />
+            <br />Who: TR Internal
+            <br />Where: 425 2nd Street, San Francisco, CA, United States 5th floor
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Thu Nov 13, 2014 5:30pm to 6:30pm PST
+            <br />
+            <br />Who: TR Internal
+            <br />Where: 425 2nd Street, San Francisco, CA, United States 5th floor
+            <br />Event Status: confirmed
+            <br />Event Description: We&amp;#39;re mostly self-organizing, bring some nerdy games* to play or just show up. * we have Legends of Andor on-deck, but nerdy games include Settlers of Catan, Bang, Kingdom Builder, etc.</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=YXM4dXF1ZGE5azBxaDQyYzhiZTNvaDR0cmdfMjAxNDExMTRUMDEzMDAwWiB0YXNrcmFiYml0LmNvbV9uZmIwbDdzYmtxb2xhaHQ3ams4YWFpdWJjc0Bn' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/as8uquda9k0qh42c8be3oh4trg_20141114T013000Z' />
+        <author>
+            <name>Brendan Saunders</name>
+            <email>brendan@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/74cnan3557l46bj4choccnf4j0</id>
+        <published>2014-11-12T22:14:36.000Z</published>
+        <updated>2014-11-13T23:51:46.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>LEARNCH! (Leah: Board Deck Review)</title>
+        <summary type='html'>When: Thu Dec 4, 2014 12pm to 1pm&amp;nbsp; PST
+            <br />
+            <br />Who: Standup Area, TR Internal
+            <br />Where: Standup Area
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Thu Dec 4, 2014 12pm to 1pm PST
+            <br />
+            <br />Who: Standup Area, TR Internal
+            <br />Where: Standup Area
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=NzRjbmFuMzU1N2w0NmJqNGNob2NjbmY0ajAgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/74cnan3557l46bj4choccnf4j0' />
+        <author>
+            <name>Diana Ardehali</name>
+            <email>diana@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/1os1oes9e0t4fgtb5m33jadk5g</id>
+        <published>2014-10-21T21:15:24.000Z</published>
+        <updated>2014-11-13T22:42:31.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>HOLD: TaskRabbit BOD Meeting</title>
+        <summary type='html'>When: Wed Nov 18, 2015 9:30am to 12:30pm&amp;nbsp; PST
+            <br />
+
+            <br />Where: Marina
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Wed Nov 18, 2015 9:30am to 12:30pm PST
+            <br />
+
+            <br />Where: Marina
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=MW9zMW9lczllMHQ0Zmd0YjVtMzNqYWRrNWcgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/1os1oes9e0t4fgtb5m33jadk5g' />
+        <author>
+            <name>Diana Ardehali</name>
+            <email>diana@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/tp6a6ucelhc39tuch12v9ov0ls</id>
+        <published>2014-11-03T18:47:14.000Z</published>
+        <updated>2014-11-13T18:53:54.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>November B-day Celebration</title>
+        <summary type='html'>When: Wed Nov 19, 2014 12:30pm to 1pm&amp;nbsp; PST
+            <br />
+            <br />Who: TR Internal
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Wed Nov 19, 2014 12:30pm to 1pm PST
+            <br />
+            <br />Who: TR Internal
+
+            <br />Event Status: confirmed
+            <br />Event Description: Time to celebrate our November babies!</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=dHA2YTZ1Y2VsaGMzOXR1Y2gxMnY5b3YwbHMgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/tp6a6ucelhc39tuch12v9ov0ls' />
+        <author>
+            <name>Alison Gill</name>
+            <email>alison@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/p14pr92dmb135qu2qk7qk5j268</id>
+        <published>2014-11-13T07:58:17.000Z</published>
+        <updated>2014-11-13T07:58:17.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Luis PTO</title>
+        <summary type='html'>When: Fri Jan 2, 2015
+            <br />
+
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Fri Jan 2, 2015
+            <br />
+
+
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=cDE0cHI5MmRtYjEzNXF1MnFrN3FrNWoyNjggdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/p14pr92dmb135qu2qk7qk5j268' />
+        <author>
+            <name>Luis Garcia</name>
+            <email>luis@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/9638ble8lmftgnh05m2khve30g</id>
+        <published>2014-11-13T07:57:57.000Z</published>
+        <updated>2014-11-13T07:57:57.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Luis PTO</title>
+        <summary type='html'>When: Mon Dec 29, 2014 to Tue Dec 30, 2014&amp;nbsp;
+            <br />
+
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Mon Dec 29, 2014 to Tue Dec 30, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=OTYzOGJsZThsbWZ0Z25oMDVtMmtodmUzMGcgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/9638ble8lmftgnh05m2khve30g' />
+        <author>
+            <name>Luis Garcia</name>
+            <email>luis@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/dmtrd0ocuel35v09a5034fr4sg</id>
+        <published>2014-11-13T07:57:28.000Z</published>
+        <updated>2014-11-13T07:57:28.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Luis PTO</title>
+        <summary type='html'>When: Fri Dec 26, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Fri Dec 26, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=ZG10cmQwb2N1ZWwzNXYwOWE1MDM0ZnI0c2cgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/dmtrd0ocuel35v09a5034fr4sg' />
+        <author>
+            <name>Luis Garcia</name>
+            <email>luis@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/s13q405re3tsdbma8lthk2k4pk</id>
+        <published>2014-11-13T07:57:06.000Z</published>
+        <updated>2014-11-13T07:57:06.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Luis PTO</title>
+        <summary type='html'>When: Mon Dec 22, 2014 to Tue Dec 23, 2014&amp;nbsp;
+            <br />
+
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Mon Dec 22, 2014 to Tue Dec 23, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=czEzcTQwNXJlM3RzZGJtYThsdGhrMms0cGsgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/s13q405re3tsdbma8lthk2k4pk' />
+        <author>
+            <name>Luis Garcia</name>
+            <email>luis@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/tfg276e0fglqijh41h7cu32o8s</id>
+        <published>2014-11-13T07:27:13.000Z</published>
+        <updated>2014-11-13T07:27:13.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Fabien WFH</title>
+        <summary type='html'>When: Wed Nov 19, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Wed Nov 19, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=dGZnMjc2ZTBmZ2xxaWpoNDFoN2N1MzJvOHMgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/tfg276e0fglqijh41h7cu32o8s' />
+        <author>
+            <name>Fabien Legoupillot</name>
+            <email>fabien@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/ef1tfejkl0m3ledqqhqjrms790</id>
+        <published>2014-02-18T22:20:14.000Z</published>
+        <updated>2014-11-13T04:49:37.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Aaron Binns&amp;#39;s Birthday!</title>
+        <summary type='html'>Recurring Event
+            <br />First start: 2014-11-13 PST
+            <br />Duration: 86400
+
+
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>Recurring Event
+            <br />First start: 2014-11-13 PST
+            <br />Duration: 86400
+
+
+
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=ZWYxdGZlamtsMG0zbGVkcXFocWpybXM3OTBfMjAxNDExMTMgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/ef1tfejkl0m3ledqqhqjrms790' />
+        <author>
+            <name>Emily Bergen</name>
+            <email>emily@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/as8uquda9k0qh42c8be3oh4trg</id>
+        <published>2014-11-06T21:03:53.000Z</published>
+        <updated>2014-11-12T22:40:01.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Nerdy Board Game night (recurring)</title>
+        <summary type='html'>Recurring Event
+            <br />First start: 2014-11-13 17:30:00 PST
+            <br />Duration: 3600
+            <br />Except on: Thu Nov 27, 2014&amp;nbsp;
+            <br />Who: TR Internal
+            <br />Where: 425 2nd Street, San Francisco, CA, United States 5th floor
+            <br />Event Status: confirmed</summary>
+        <content type='html'>Recurring Event
+            <br />First start: 2014-11-13 17:30:00 PST
+            <br />Duration: 3600
+            <br />Except on: Thu Nov 27, 2014
+            <br />Who: TR Internal
+            <br />Where: 425 2nd Street, San Francisco, CA, United States 5th floor
+            <br />Event Status: confirmed
+            <br />Event Description: We&amp;#39;re mostly self-organizing, bring some nerdy games* to play or just show up. * we have Legends of Andor on-deck, but nerdy games include Settlers of Catan, Bang, Kingdom Builder, etc.</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=YXM4dXF1ZGE5azBxaDQyYzhiZTNvaDR0cmdfMjAxNDExMTRUMDEzMDAwWiB0YXNrcmFiYml0LmNvbV9uZmIwbDdzYmtxb2xhaHQ3ams4YWFpdWJjc0Bn' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/as8uquda9k0qh42c8be3oh4trg' />
+        <author>
+            <name>Brendan Saunders</name>
+            <email>brendan@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/14irl6odlu2p9b48h8lfvrcudc_20141205T233000Z</id>
+        <published>2013-09-26T18:29:08.000Z</published>
+        <updated>2014-11-12T22:35:56.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Demos!</title>
+        <summary type='html'>When: Fri Dec 5, 2014 3:30pm to Fri Dec 5, 2014 4pm&amp;nbsp; PST
+            <br />
+            <br />Who: John Vars, Scott Bartlett, Nerissa Chan, Andy Jih, Pablo Jairala, Brandt Roberts, Evan Tahler, Nicolas Waldmann, Brendan Saunders, Ray Sandza, Brian Leonard, Shaun Mullen, Jim Hildensperger, Jean-Richard Lai, Pursarth Tuladhar, Brianna McLellan, Courtney Trunko, Jenna Williams, Liz Magee, Josh Aldinger, Saba Zuberi, Trevor Humphrey, SheShe He, Ali Sayed, Mike Nelson, Zach Perkins, Christopher Stephenson, Diana Ardehali, Matt Pope, Fabien Legoupillot, Aaron Gannon, Ian Arthurs, Leah Busque, Stacy Brown-Philpot, Melissa McAlpine, Jay Boren, Kiana Lawrence, Hilary Karls, Anjali Menon, Johnny Brackett, Emily Bergen, Kevin Busque, Luis Garcia, Angela Jacobs, Jeremy Caballero, Jamie Viggiano, Monica McCleary, Alison Gill, Julian Ramirez
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Fri Dec 5, 2014 3:30pm to Fri Dec 5, 2014 4pm PST
+            <br />
+            <br />Who: John Vars, Scott Bartlett, Nerissa Chan, Andy Jih, Pablo Jairala, Brandt Roberts, Evan Tahler, Nicolas Waldmann, Brendan Saunders, Ray Sandza, Brian Leonard, Shaun Mullen, Jim Hildensperger, Jean-Richard Lai, Pursarth Tuladhar, Brianna McLellan, Courtney Trunko, Jenna Williams, Liz Magee, Josh Aldinger, Saba Zuberi, Trevor Humphrey, SheShe He, Ali Sayed, Mike Nelson, Zach Perkins, Christopher Stephenson, Diana Ardehali, Matt Pope, Fabien Legoupillot, Aaron Gannon, Ian Arthurs, Leah Busque, Stacy Brown-Philpot, Melissa McAlpine, Jay Boren, Kiana Lawrence, Hilary Karls, Anjali Menon, Johnny Brackett, Emily Bergen, Kevin Busque, Luis Garcia, Angela Jacobs, Jeremy Caballero, Jamie Viggiano, Monica McCleary, Alison Gill, Julian Ramirez
+
+            <br />Event Status: confirmed
+            <br />Event Description: Demo Friday is back with a new format! Demos are about: Any new impact to user experience (online or offline) that was implemented out in the preceding week. A demo is: 3 minutes (max) show and tell session. Your set up time counts as part of the 3 minutes. Great demos will generally follow a story line about a user scenario. Who can demo: Anyone! we all work on calls, emails, campaigns, policies, experiments, webpages, or mobile apps that affect user experience.</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=MTRpcmw2b2RsdTJwOWI0OGg4bGZ2cmN1ZGNfMjAxNDEyMDVUMjMzMDAwWiB0YXNrcmFiYml0LmNvbV9uZmIwbDdzYmtxb2xhaHQ3ams4YWFpdWJjc0Bn' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/14irl6odlu2p9b48h8lfvrcudc_20141205T233000Z' />
+        <author>
+            <name>Kim Nguyen</name>
+            <email>leah@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/f22eocn3dun8hlhms6n1kb1qa8_20141202T201500Z</id>
+        <published>2014-07-29T15:28:47.000Z</published>
+        <updated>2014-11-12T22:34:59.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Product Roadmap Learnch</title>
+        <summary type='html'>When: Tue Dec 2, 2014 12:15pm to 1pm&amp;nbsp; PST
+            <br />
+            <br />Who: TR Internal, alison@taskrabbit.com, Standup Area, Contractors, John Vars, Aaron Gannon, Andy Jih
+            <br />Where: Standup Area
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Tue Dec 2, 2014 12:15pm to 1pm PST
+            <br />
+            <br />Who: TR Internal, alison@taskrabbit.com, Standup Area, Contractors, John Vars, Aaron Gannon, Andy Jih
+            <br />Where: Standup Area
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=ZjIyZW9jbjNkdW44aGxobXM2bjFrYjFxYThfMjAxNDEyMDJUMjAxNTAwWiB0YXNrcmFiYml0LmNvbV9uZmIwbDdzYmtxb2xhaHQ3ams4YWFpdWJjc0Bn' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/f22eocn3dun8hlhms6n1kb1qa8_20141202T201500Z' />
+        <author>
+            <name>Andy Jih</name>
+            <email>andy@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/f22eocn3dun8hlhms6n1kb1qa8_20141104T201500Z</id>
+        <published>2014-07-29T15:28:47.000Z</published>
+        <updated>2014-11-12T13:16:25.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Product Learnch (Roadmap + Summit Conference Summary)</title>
+        <summary type='html'>When: Thu Nov 13, 2014 12:15pm to 1pm&amp;nbsp; PST
+            <br />Replaces event originally scheduled for: Tue Nov 4, 2014 12:15pm
+            <br />
+            <br />Who: Contractors, alison@taskrabbit.com, Andy Jih, John Vars, Aaron Gannon, TR Internal, Standup Area
+            <br />Where: Standup Area
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Thu Nov 13, 2014 12:15pm to 1pm PST
+            <br />Replaces event originally scheduled for: Tue Nov 4, 2014 12:15pm
+            <br />
+            <br />Who: Contractors, alison@taskrabbit.com, Andy Jih, John Vars, Aaron Gannon, TR Internal, Standup Area
+            <br />Where: Standup Area
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=ZjIyZW9jbjNkdW44aGxobXM2bjFrYjFxYThfMjAxNDExMDRUMjAxNTAwWiB0YXNrcmFiYml0LmNvbV9uZmIwbDdzYmtxb2xhaHQ3ams4YWFpdWJjc0Bn' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/f22eocn3dun8hlhms6n1kb1qa8_20141104T201500Z' />
+        <author>
+            <name>Andy Jih</name>
+            <email>andy@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/l8qvukrv01aukiemv291rq2l2k</id>
+        <published>2014-11-06T22:38:00.000Z</published>
+        <updated>2014-11-12T00:49:43.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Flu Shot Clinic in office</title>
+        <summary type='html'>When: Wed Nov 12, 2014 9am to 10:30am&amp;nbsp; PST
+            <br />
+            <br />Who: TR Internal
+            <br />Where: Front storage room
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Wed Nov 12, 2014 9am to 10:30am PST
+            <br />
+            <br />Who: TR Internal
+            <br />Where: Front storage room
+            <br />Event Status: confirmed
+            <br />Event Description: Hi all, Rite Aid will be coming into the office to administer flu shots to whoever wants one. First come, first serve. Please just visit the front storage room anytime during this window if you&amp;#39;d like one. Let me know if you have any questions! Emily
+        </content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=bDhxdnVrcnYwMWF1a2llbXYyOTFycTJsMmsgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/l8qvukrv01aukiemv291rq2l2k' />
+        <author>
+            <name>Emily Bergen</name>
+            <email>emily@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/dp4gicj8rbp3tsi52g5a04gos8</id>
+        <published>2014-10-30T18:41:55.000Z</published>
+        <updated>2014-11-10T18:34:40.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Veterans Day - Company Holiday!</title>
+        <summary type='html'>When: Tue Nov 11, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Tue Nov 11, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=ZHA0Z2ljajhyYnAzdHNpNTJnNWEwNGdvczggdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/dp4gicj8rbp3tsi52g5a04gos8' />
+        <author>
+            <name>Emily Bergen</name>
+            <email>emily@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/emugbjt37dbr82shd989t94v6o</id>
+        <published>2014-10-27T20:46:49.000Z</published>
+        <updated>2014-11-10T18:34:37.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Courtney WFH</title>
+        <summary type='html'>When: Mon Nov 10, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Mon Nov 10, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=ZW11Z2JqdDM3ZGJyODJzaGQ5ODl0OTR2Nm8gdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/emugbjt37dbr82shd989t94v6o' />
+        <author>
+            <name>Courtney Trunko</name>
+            <email>courtney@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/v9hf89a0r0ntpm0qncl13eoovk</id>
+        <published>2014-10-14T22:11:55.000Z</published>
+        <updated>2014-11-10T18:10:49.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Karaoke/Sushi/Sake Night!!</title>
+        <summary type='html'>When: Thu Nov 20, 2014 6pm to 8pm&amp;nbsp; PST
+            <br />
+            <br />Who: TR Internal, Alison Gill
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Thu Nov 20, 2014 6pm to 8pm PST
+            <br />
+            <br />Who: TR Internal, Alison Gill
+
+            <br />Event Status: confirmed
+            <br />Event Description: Yes, team, it&amp;#39;s true. We are going to have the first annual TR Karaoke Night here at the office on November 20th. Do some warm-ups and stretch out those vocal chords. Bust out your best Madonna or ACDC or Disney tunes. We&amp;#39;ll be eating some sushi, drinking some sake, and thoroughly embarrassing ourselves/impressing each other with our vocal abilities, or lack thereof. Please feel free to bring a +1 Woop! Please RSVP!</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=djloZjg5YTByMG50cG0wcW5jbDEzZW9vdmsgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/v9hf89a0r0ntpm0qncl13eoovk' />
+        <author>
+            <name>Alison Gill</name>
+            <email>alison@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/iqen09uodr8folu7pnre8s372k_20141103T173000Z</id>
+        <published>2012-08-13T20:42:14.000Z</published>
+        <updated>2014-11-10T17:31:03.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Weekly Company Standup Meeting</title>
+        <summary type='html'>When: Mon Nov 3, 2014 9:30am to 10am&amp;nbsp; PST
+            <br />
+            <br />Who: Jenna Williams, Brian Leonard, Team, Mike Nelson, Jamie Viggiano, Ali Sayed, Ray Sandza, Courtney Trunko, Scott Bartlett, Emily Bergen, Zach Perkins, Standup Area, Brandt Roberts, Colin Madere, Ian Arthurs, Pablo Jairala, Anjali Menon, Saba Zuberi, Trevor Humphrey, Monica McCleary, Jeremy Caballero, Hilary Karls, Liz Magee, Fabien Legoupillot, Julian Ramirez, Matt Pope, Nerissa Chan, Pursarth Tuladhar, Shaun Mullen, Evan Tahler, Christopher Stephenson, Aaron Gannon, Jim Hildensperger, Jean-Richard Lai, Alison Gill, Angela Jacobs, John Sherrer, Kiana Lawrence, Bonnie Carr, Andy Jih, Johnny Brackett, Brendan Saunders, John Vars, Diana Ardehali, Melissa McAlpine, Laura Zander, Luis Garcia, SheShe He, Leah Busque, Stacy Brown-Philpot
+            <br />Where: Standup Area
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Mon Nov 3, 2014 9:30am to 10am PST
+            <br />
+            <br />Who: Jenna Williams, Brian Leonard, Team, Mike Nelson, Jamie Viggiano, Ali Sayed, Ray Sandza, Courtney Trunko, Scott Bartlett, Emily Bergen, Zach Perkins, Standup Area, Brandt Roberts, Colin Madere, Ian Arthurs, Pablo Jairala, Anjali Menon, Saba Zuberi, Trevor Humphrey, Monica McCleary, Jeremy Caballero, Hilary Karls, Liz Magee, Fabien Legoupillot, Julian Ramirez, Matt Pope, Nerissa Chan, Pursarth Tuladhar, Shaun Mullen, Evan Tahler, Christopher Stephenson, Aaron Gannon, Jim Hildensperger, Jean-Richard Lai, Alison Gill, Angela Jacobs, John Sherrer, Kiana Lawrence, Bonnie Carr, Andy Jih, Johnny Brackett, Brendan Saunders, John Vars, Diana Ardehali, Melissa McAlpine, Laura Zander, Luis Garcia, SheShe He, Leah Busque, Stacy Brown-Philpot
+            <br />Where: Standup Area
+            <br />Event Status: confirmed
+            <br />Event Description: Back by popular demand Weekly Company Breakfast + Standup! Breakfast will be available at 9am. Standup begins promptly at 9:30am. Come to hear weekly metrics, what is happening across departments and what the important focus areas are for the week. There will also be shout-outs :-)</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=aXFlbjA5dW9kcjhmb2x1N3BucmU4czM3MmtfMjAxNDExMDNUMTczMDAwWiB0YXNrcmFiYml0LmNvbV9uZmIwbDdzYmtxb2xhaHQ3ams4YWFpdWJjc0Bn' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/iqen09uodr8folu7pnre8s372k_20141103T173000Z' />
+        <author>
+            <name>Diana Ardehali</name>
+            <email>diana@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/3pdlb20qe43i7hmhs5cah58e90</id>
+        <published>2014-09-29T19:31:24.000Z</published>
+        <updated>2014-11-10T17:14:30.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>TR Holiday Party</title>
+        <summary type='html'>When: Sat Dec 6, 2014 7pm to 10pm&amp;nbsp; PST
+            <br />
+            <br />Who: Laura Zander, TR Internal, Aaron Gannon
+            <br />Where: Sens Restaurant, Embarcadero Center, San Francisco
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Sat Dec 6, 2014 7pm to 10pm PST
+            <br />
+            <br />Who: Laura Zander, TR Internal, Aaron Gannon
+            <br />Where: Sens Restaurant, Embarcadero Center, San Francisco
+            <br />Event Status: confirmed
+            <br />Event Description: Please join us for the annual TaskRabbit Holiday Party! +1&amp;#39;s are welcome.</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=M3BkbGIyMHFlNDNpN2htaHM1Y2FoNThlOTAgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/3pdlb20qe43i7hmhs5cah58e90' />
+        <author>
+            <name>Alison Gill</name>
+            <email>alison@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/f22eocn3dun8hlhms6n1kb1qa8</id>
+        <published>2014-07-29T15:28:47.000Z</published>
+        <updated>2014-11-10T17:14:30.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Product Roadmap Learnch</title>
+        <summary type='html'>Recurring Event
+            <br />First start: 2014-11-04 12:15:00 PST
+            <br />Duration: 2700
+
+            <br />Who: Standup Area, Aaron Gannon, alison@taskrabbit.com, Contractors, TR Internal, Andy Jih, John Vars
+            <br />Where: Standup Area
+            <br />Event Status: confirmed</summary>
+        <content type='html'>Recurring Event
+            <br />First start: 2014-11-04 12:15:00 PST
+            <br />Duration: 2700
+
+            <br />Who: Standup Area, Aaron Gannon, alison@taskrabbit.com, Contractors, TR Internal, Andy Jih, John Vars
+            <br />Where: Standup Area
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=ZjIyZW9jbjNkdW44aGxobXM2bjFrYjFxYThfMjAxNDExMDRUMjAxNTAwWiB0YXNrcmFiYml0LmNvbV9uZmIwbDdzYmtxb2xhaHQ3ams4YWFpdWJjc0Bn' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/f22eocn3dun8hlhms6n1kb1qa8' />
+        <author>
+            <name>Andy Jih</name>
+            <email>andy@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/te05glveplonlc2sb3vkkcnb1s</id>
+        <published>2014-11-03T19:09:39.000Z</published>
+        <updated>2014-11-08T18:34:05.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Fabien PTO</title>
+        <summary type='html'>When: Fri Nov 7, 2014 to Mon Nov 10, 2014&amp;nbsp;
+            <br />
+
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Fri Nov 7, 2014 to Mon Nov 10, 2014
+            <br />
+
+
+            <br />Event Status: confirmed</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=dGUwNWdsdmVwbG9ubGMyc2IzdmtrY25iMXMgdGFza3JhYmJpdC5jb21fbmZiMGw3c2JrcW9sYWh0N2prOGFhaXViY3NAZw' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/te05glveplonlc2sb3vkkcnb1s' />
+        <author>
+            <name>Fabien Legoupillot</name>
+            <email>fabien@taskrabbit.com</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/14irl6odlu2p9b48h8lfvrcudc_20141114T233000Z</id>
+        <published>2013-09-26T18:29:08.000Z</published>
+        <updated>2014-11-07T21:41:21.000Z</updated>
+        <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event' />
+        <title type='html'>Demos!</title>
+        <summary type='html'>When: Fri Nov 14, 2014 3:30pm to Fri Nov 14, 2014 4pm&amp;nbsp; PST
+            <br />
+            <br />Who: Ali Sayed, Scott Bartlett, Saba Zuberi, Andy Jih, Jeremy Caballero, Alison Gill, Johnny Brackett, Evan Tahler, Julian Ramirez, Diana Ardehali, Brandt Roberts, Kiana Lawrence, Brianna McLellan, Christopher Stephenson, Nicolas Waldmann, Kevin Busque, Luis Garcia, Zach Perkins, Leah Busque, Courtney Trunko, SheShe He, Emily Bergen, Jim Hildensperger, Hilary Karls, Stacy Brown-Philpot, Fabien Legoupillot, Jamie Viggiano, Melissa McAlpine, Brendan Saunders, Jay Boren, Brian Leonard, Anjali Menon, Matt Pope, Aaron Gannon, Liz Magee, Jenna Williams, John Vars, Trevor Humphrey, Nerissa Chan, Josh Aldinger, Shaun Mullen, Mike Nelson, Pursarth Tuladhar, Monica McCleary, Jean-Richard Lai, Pablo Jairala, Angela Jacobs, Ray Sandza, Ian Arthurs
+
+            <br />Event Status: confirmed</summary>
+        <content type='html'>When: Fri Nov 14, 2014 3:30pm to Fri Nov 14, 2014 4pm PST
+            <br />
+            <br />Who: Ali Sayed, Scott Bartlett, Saba Zuberi, Andy Jih, Jeremy Caballero, Alison Gill, Johnny Brackett, Evan Tahler, Julian Ramirez, Diana Ardehali, Brandt Roberts, Kiana Lawrence, Brianna McLellan, Christopher Stephenson, Nicolas Waldmann, Kevin Busque, Luis Garcia, Zach Perkins, Leah Busque, Courtney Trunko, SheShe He, Emily Bergen, Jim Hildensperger, Hilary Karls, Stacy Brown-Philpot, Fabien Legoupillot, Jamie Viggiano, Melissa McAlpine, Brendan Saunders, Jay Boren, Brian Leonard, Anjali Menon, Matt Pope, Aaron Gannon, Liz Magee, Jenna Williams, John Vars, Trevor Humphrey, Nerissa Chan, Josh Aldinger, Shaun Mullen, Mike Nelson, Pursarth Tuladhar, Monica McCleary, Jean-Richard Lai, Pablo Jairala, Angela Jacobs, Ray Sandza, Ian Arthurs
+
+            <br />Event Status: confirmed
+            <br />Event Description: Demo Friday is back with a new format! Demos are about: Any new impact to user experience (online or offline) that was implemented out in the preceding week. A demo is: 3 minutes (max) show and tell session. Your set up time counts as part of the 3 minutes. Great demos will generally follow a story line about a user scenario. Who can demo: Anyone! we all work on calls, emails, campaigns, policies, experiments, webpages, or mobile apps that affect user experience.</content>
+        <link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=MTRpcmw2b2RsdTJwOWI0OGg4bGZ2cmN1ZGNfMjAxNDExMTRUMjMzMDAwWiB0YXNrcmFiYml0LmNvbV9uZmIwbDdzYmtxb2xhaHQ3ams4YWFpdWJjc0Bn' title='alternate' />
+        <link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/taskrabbit.com_nfb0l7sbkqolaht7jk8aaiubcs%40group.calendar.google.com/private-36915ae44128b8fa37b6b2f1c3d31d2f/basic/14irl6odlu2p9b48h8lfvrcudc_20141114T233000Z' />
+        <author>
+            <name>Kim Nguyen</name>
+            <email>leah@taskrabbit.com</email>
+        </author>
+    </entry>
+</feed>

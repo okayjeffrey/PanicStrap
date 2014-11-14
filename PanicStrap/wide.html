@@ -25,11 +25,13 @@
 
     <div class="container-fluid">
     
+<!--
         <div class="row-fluid grid-margins">
             <div class="span12" data-original-title=""></div>
         </div>
-        
+-->
 
+<!--
         <div class="row-fluid grid-margins">
             <div class="span2" data-original-title="">
                 <div class="progress progress-info">
@@ -72,28 +74,14 @@
                 <div class="rowlabels">IE</div>
             </div>
             
-            <div class="span4 show bigrow" data-original-title="">
-                <div class="row-fluid grid-margins rowlabels">
-                    <div class="span12 heavy dateheader" id="current_date" data-original-title="">Monday. 3/8</div>
-                </div>
-                <div class="row-fluid grid-margins">
-                    <div class="span12 heavy eventname" data-original-title=""><span class="predate">3/11</span>Nick Out (vacation)</div>
-                </div>
-                <div class="row-fluid grid-margins">
-                    <div class="span12 heavy eventname" data-original-title=""><span class="predate">3/15</span>Google IO (Moscone Center)</div>
-                </div>
-                <div class="row-fluid grid-margins">
-                    <div class="span12 heavy eventname" data-original-title=""><span class="predate">3/23</span>Zach Out (vacation)</div>
-                </div>
-            </div>
-            
         </div>
-        
-        
+-->          
+
+<!--
         <div class="row-fluid grid-margins">
           <div class="span12" data-original-title=""></div>
         </div>
-        
+-->        
         
         <div class="row-fluid grid-margins">
           <div class="span3 show heavy" data-original-title=""><img src="assets/img/browser-icon-chrome.png">Chrome</div>
@@ -115,20 +103,16 @@
         </div>
         
         
+<!--
         <div class="row-fluid grid-margins">
           <div class="span12" data-original-title=""></div>
-        </div>
-        
-        
-        <div class="row-fluid grid-margins countdown">
-            <div class="span12" data-original-title=""><img src="assets/img/browser-icon-safari.png" height="44px" width="44px" style="margin-right:15px;">25 days <span style="color:#777;">until safari launch</span></div>
         </div>
         
         
         <div class="row-fluid grid-margins">
           <div class="span12" data-original-title=""></div>
         </div>
-        
+-->
         
         <div class="row-fluid grid-margins bigbox">
             <div class="span3 show bigrow updown" id="updown1" data-original-title="">
@@ -145,12 +129,35 @@
             </div>  
         </div>
         
+        <div id="entries" class="span4 show bigrow" data-original-title="">
+            <div class="row-fluid grid-margins rowlabels">
+            <div class="span12 heavy dateheader" id="current_date" data-original-title="">Monday. 3/8</div>
+            </div>
+            <!--
+            <div class="row-fluid grid-margins">
+            <div class="span12 heavy eventname" data-original-title=""><span class="predate">3/11</span>Nick Out (vacation)</div>
+            </div>
+            <div class="row-fluid grid-margins">
+            <div class="span12 heavy eventname" data-original-title=""><span class="predate">3/15</span>Google IO (Moscone Center)</div>
+            </div>
+            <div class="row-fluid grid-margins">
+            <div class="span12 heavy eventname" data-original-title=""><span class="predate">3/23</span>Zach Out (vacation)</div>
+            </div>
+            -->
+        </div>
+                
+        <div class="row-fluid grid-margins countdown">
+            <div class="span12" data-original-title=""><img src="assets/img/browser-icon-safari.png" height="44px" width="44px" style="margin-right:15px;">25 days <span style="color:#777;">until safari launch</span></div>
+        </div>
         
+        
+<!--
         <div class="row-fluid grid-margins">
             <div class="span12" data-original-title=""></div>
         </div>
-
+-->
         
+<!--
         <div class="row-fluid grid-margins">
             <div class="span12 show tweets" id="companytweets" data-original-title="">
                  Nullam id dolor id nibh ultricies vehicula.
@@ -161,6 +168,9 @@
                 Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula.
             </div>
         </div>
+-->
+       
+    <div id="print"></div>
         
     </div> <!-- /container -->
     
@@ -259,6 +269,34 @@
             setInterval(function(){ get_tweets('#publictweets','http://search.twitter.com/search.json?q=@pebble&rpp=5&callback=?') }, 300000); // get new public tweets every 5 minutes
             setInterval(function(){ $('.vertical').panicstrap_update('random') }, 6000); // randomize all graphs
             setInterval(function(){ $('.updown').panicstrap_update('random') }, 6000); // randomize all updown numbers
+            
+//            console.log(now.);
+            // Calendar info
+            $.ajax({
+              url: '/xmls/calendar.xml',
+              dataType: 'xml',
+              success: parseXML
+            });
+        function parseXML(xml){
+              $(xml).find('entry').each( function() {
+//                    $('#entries').append($(this).find('title').text() + '<br />');
+    
+                  var eventTitle = $('#entries').find('summary:contains("Fri Nov 14, 2014")');
+                  console.log(eventTitle);
+//                  eventTitle.append($(this).text());
+//                  Fri Nov 14, 2014
+              });
+        }
+            
+        // trello!!!!!!!!!!!
+            $.getJSON("https://api.trello.com/1/board/542973e777cc3b14084edfb6?&callback=?", {
+                key: '5da5bdcd82e993b8769898e73715d137',
+                token: '94fd0e94e2005f7f5d16b798a82033597df6bfb30e64b4410dcd4ba33dd35e27'
+            })
+            .success(function(responseObj) {
+                document.getElementById('print').innerHTML = JSON.stringify(responseObj);
+            });
+            
         });
     </script>
 
