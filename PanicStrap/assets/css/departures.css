@@ -23,6 +23,7 @@ section#departures div.stop {
 }
 
 section#departures span.stop-name {
+  display: block;
   white-space: nowrap;
 }
 
@@ -37,7 +38,7 @@ section#departures span.minutes {
   border-radius: 10px;
   color: black;
   font-weight: bold;
-  margin-left: 10px;
+  margin-right: 10px;
   padding: 5px 10px;
   text-transform: lowercase;
   white-space: nowrap;

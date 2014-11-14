@@ -4,7 +4,7 @@ var departures = {
     stops: {
       bart: {
         agencyId: "BART",
-        stopCode: 16
+        stopCode: 15
       },
       caltrain: {
         agencyId: "CALTRAIN",
@@ -23,10 +23,12 @@ var departures = {
     var timesMarkup = "";
 
     $.each(times, function(index, time) {
-      timesMarkup += "<span class=\"minutes\">" + time.trim() + " mins</span>";
+      if (time.trim() != "") {
+        timesMarkup += "<span class=\"minutes\">" + time.trim() + " mins</span>";
+      }
     });
 
-    return "<div class=\"departure\"><span class=\"stop-name\">" + departure.RouteName + "</span> &nbsp; " + timesMarkup + "</div>";
+    return "<div class=\"departure\"><span class=\"stop-name\">" + departure.RouteName + "</span>" + timesMarkup + "</div>";
   },
 
   getDepartureTimes: function() {
@@ -62,7 +64,7 @@ var departures = {
     $("#" + agency + "-departures").empty();
 
     $.each(data, function(index, departure) {
-      if(departure.FormattedDepartureTimes != "") {
+      if (departure.FormattedDepartureTimes != "") {
         $("#" + agency + "-departures").append(departures.getDepartureMarkup(departure));
       }
     });
