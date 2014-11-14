@@ -9,6 +9,7 @@
 
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/css/statusboard.css" rel="stylesheet">
+    <link href="assets/css/departures.css" rel="stylesheet">
     
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script src="assets/js/bootstrap.min.js" type="javascript"></script>
@@ -114,19 +115,25 @@
         </div>
 -->
         
-        <div class="row-fluid grid-margins bigbox">
-            <div class="span3 show bigrow updown" id="updown1" data-original-title="">
-                <div class="content green">+42%</div>
+        <section id="departures">
+            <h1>Departures</h1>
+            <div class="row-fluid grid-margins" id="departures">
+                <div class="span4 show bigrow" id="bart" data-original-title="BART">
+                    <div class="agency">BART</div>
+                    <div class="stop" id="bart-stop-name"></div>
+                    <div class="departures" id="bart-departures"></div>
+                </div>
+                <div class="span4 show bigrow" id="caltrain" data-original-title="Caltrain">
+                    <div class="agency">Caltrain</div>
+                    <div class="stop" id="caltrain-stop-name"></div>
+                    <div class="departures" id="caltrain-departures"></div>
+                </div>
+                <div class="span4 show bigrow" id="muni" data-original-title="SF Muni">
+                    <div class="agency">Muni</div>
+                    <div class="stop" id="muni-stop-name"></div>
+                    <div class="departures" id="muni-departures"></div>
+                </div>
             </div>
-            <div class="span3 show bigrow updown" id="updown2" data-original-title="">
-                <div class="content green">+63%</div>
-            </div>
-            <div class="span3 show bigrow updown" id="updown3" data-original-title="">
-                <div class="content red">-21%</div>
-            </div>
-            <div class="span3 show bigrow updown" id="updown4" data-original-title="">
-                <div class="content green">+94%</div>
-            </div>  
         </div>
         
         <div id="entries" class="span4 show bigrow" data-original-title="">
@@ -268,7 +275,6 @@
             setInterval(function(){ get_tweets('#companytweets','http://search.twitter.com/search.json?q=@nickschwab&rpp=5&callback=?') }, 300000); // get new company tweets every 5 minutes
             setInterval(function(){ get_tweets('#publictweets','http://search.twitter.com/search.json?q=@pebble&rpp=5&callback=?') }, 300000); // get new public tweets every 5 minutes
             setInterval(function(){ $('.vertical').panicstrap_update('random') }, 6000); // randomize all graphs
-            setInterval(function(){ $('.updown').panicstrap_update('random') }, 6000); // randomize all updown numbers
             
 //            console.log(now.);
             // Calendar info
